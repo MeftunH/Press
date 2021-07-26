@@ -1,0 +1,14 @@
+{
+    "name": "meftunh/press",
+    "description": "Elegant markdown-powered blog for the Laravel framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MeftunH",
+            "email": "maftunhashimli@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "orchestra/testbench": "^6.19"
+    }
+}
