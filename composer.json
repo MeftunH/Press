@@ -10,5 +10,13 @@
     ],
     "require-dev": {
         "orchestra/testbench": "^6.19"
+    },
+    "autoload": {
+        "psr-4": {
+           "meftunh\\Press\\": "src/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^9.5"
     }
 }
